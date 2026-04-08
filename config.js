@@ -4,4 +4,4 @@
 // will automatically update within a few minutes.
 // ============================================
 
-var REDIRECT_URL = "https://example.com";
+var REDIRECT_URL = "https://www.cygnify.io/";
